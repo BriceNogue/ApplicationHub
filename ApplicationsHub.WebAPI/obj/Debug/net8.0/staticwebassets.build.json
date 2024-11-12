@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "wddGRTa8acuLp/0PasQTnT3yWMYMny+6XnDmmnIWJd4=",
+  "Source": "ApplicationsHub.WebAPI",
+  "BasePath": "_content/ApplicationsHub.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
